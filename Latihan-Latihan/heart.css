@@ -1,0 +1,21 @@
+
+.heart {
+   position: relative;
+   height: 160px;
+   width: 100px;
+   background-color: #884f04;
+   border-radius: 200px 200px 0 0;
+   transform: rotate(45deg);
+   margin: auto;
+}
+.heart::before {
+   content: "";
+   position: absolute;
+   background-color: #884f04;
+   height: 160px;
+   width: 100px;
+   transform: rotate(-90deg);
+   border-radius: 200px 200px 0 0;
+   left: -30px;
+   top: 30px;
+}

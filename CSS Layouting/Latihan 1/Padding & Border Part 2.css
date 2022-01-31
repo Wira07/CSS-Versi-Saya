@@ -1,0 +1,28 @@
+div {
+    width: 600px;
+    margin: 10px auto;
+    box-sizing: border-box;
+}
+.satu {
+    background-color: chartreuse;
+    padding: 10px;
+    border: 5px solid red;
+}
+.dua {
+    background-color: slateblue;
+    padding: 30px;
+    border: 10px dotted orangered;
+}
+.tiga {
+    background-color: sandybrown;
+    padding: 50px;
+    border: 30px dashed greenyellow;
+}
+.empat {
+    background-color: crimson;
+    padding: 50px;
+    border-left: dotted 35px salmon;
+    border-right: double 35px limegreen;
+    border-top: solid 35px lightcoral;
+    border-bottom: dashed 35px blue;
+}

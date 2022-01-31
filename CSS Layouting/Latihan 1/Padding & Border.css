@@ -1,0 +1,25 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+    margin: 20px auto;
+    padding: 50px;
+    border-right: 5px solid;
+    border-left: 10px dashed;
+    border-bottom: 15px double;
+    border-top: 20px dotted;
+}
+
+.main {
+    width: 300px;
+    height: 300px;
+    background-color: brown;
+    padding-left: 30px;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    padding-right: 25px;
+    border-left: 25px dashed red;
+    border-right: 25px dotted royalblue;
+    border-bottom: 25px double gray;
+    border-top: 25px solid greenyellow;
+}

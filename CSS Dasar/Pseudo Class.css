@@ -1,0 +1,78 @@
+h1 {
+    color: rgb(167, 9, 9);
+}
+a {
+    text-decoration: none;
+}
+.wira {
+    color: lawngreen;
+}
+.wira:hover {
+    color: navy;
+}
+.wira:hover {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+}
+.wira:active{
+    font-style: italic;
+}
+.wira:visited {
+    color: black;
+}
+.wira-sukma-saputra {
+    color: navy;
+}
+.wira-sukma-saputra:hover {
+    color: olive;
+}
+.wira-sukma-saputra:hover {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+}
+.wira-sukma-saputra:active {
+    font-style: italic;
+}
+.wira-sukma-saputra:visited {
+    color: black;
+}
+.aku-senang {
+    color: orange;
+}
+.aku-senang:hover {
+    color: orchid;
+}
+.aku-senang:hover {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+}
+.aku-senang:active {
+    font-style: italic;
+}
+.aku-senang:visited {
+    color: black;
+}
+li:first-child a {
+    color: chartreuse;
+}
+li:last-child a {
+    color: chartreuse;
+}
+li:nth-child(2) a {
+    color: chartreuse;
+}
+li:nth-child(odd) a {
+    color: chartreuse;
+}
+li:nth-child(odd) a {
+    color: maroon;
+}
+p:first-of-type {
+    color: blue;
+}
+p:last-of-type {
+    color: brown;
+}

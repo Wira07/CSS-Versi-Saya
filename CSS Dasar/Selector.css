@@ -1,0 +1,29 @@
+body {
+    font-family: arial;
+}
+h1, h2 {
+    color: rgb(3, 61, 3);
+}
+
+ol li a {
+    color: brown;
+}
+
+ul li a {
+    color: rgb(95, 161, 20);
+}
+a {text-decoration: none;}
+
+#bagian-1 {
+    color: rgb(52, 0, 100);
+}
+
+.bagian-2 {
+    color: rgb(133, 207, 14);
+}
+.cetak-tebal {
+    font-weight: bold;
+}
+.cetak-tebal{
+    font-size: 20px;
+}

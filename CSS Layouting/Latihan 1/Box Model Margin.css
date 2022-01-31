@@ -1,0 +1,32 @@
+.satu {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(44, 209, 22);
+    margin: auto;
+}
+.dua {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(29, 100, 8);
+    margin: auto;
+}
+.tiga {
+    width: 50px;
+    height: 50px;
+    background-color: blueviolet;
+    margin-top: -350px;
+}
+.empat {
+    width: 90px;
+    height: 90px;
+    background-color: cornflowerblue;
+    margin-bottom: 300px;
+}
+.lima {
+    width: 70px;
+    height: 70px;
+    background-color: darkgoldenrod;
+    margin-top: 300px;
+    margin-right: 300px;
+    margin-left: 300px;
+}

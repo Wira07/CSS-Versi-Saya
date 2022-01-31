@@ -1,0 +1,30 @@
+.header li {
+	display: inline-block;
+	margin-top: 5px;
+	margin-right: 10px;
+}
+.header {
+	padding: 5px;
+}
+.header a {
+	text-decoration: none;
+	color: salmon;
+	padding: 3px;
+}
+.header a:hover {
+	background-color: lightskyblue;
+	color: white;
+}
+.header {
+   background-color: rgb(227, 216, 236);
+}
+.header .judul {
+   font-size: 20px;
+   font-weight: bold;
+}
+.header {
+	background-size: cover;
+	background-position: 0 -80px;
+	border-top: 5px solid rgb(71, 20, 211);
+	border-bottom: 5px solid rgb(206, 5, 5);
+}

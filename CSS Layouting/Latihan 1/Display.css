@@ -1,0 +1,10 @@
+.header-nama{
+	float: left;
+	font-size: 20px;
+	padding: 20px 80px;
+}
+.header-nama {
+   width: 100%;
+   background-color: #021230;
+   color: cornsilk;
+}

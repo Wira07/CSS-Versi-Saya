@@ -1,0 +1,37 @@
+.container {
+   width: 1000px;
+   background-color: aqua;
+   margin: auto;
+   padding: 5px;
+   border: 1px solid black;
+}
+.kiri {
+   width: 150px;
+   height: 500px;
+   background-color: blanchedalmond;
+   float: left;
+}
+.tengah {
+   width: 500px;
+   height: 500px;
+   background-color: blueviolet;
+   float: left;
+}
+.kanan {
+   width: 150px;
+   height: 500px;
+   background-color: chartreuse;
+   float: left;
+}
+.samping {
+   width: 100px;
+   height: 500px;
+   background-color: brown;
+   float: left;
+}
+.atas {
+   width: 100px;
+   height: 500px;
+   background-color: cadetblue;
+   float: left;
+}

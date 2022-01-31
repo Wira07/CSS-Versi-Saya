@@ -1,0 +1,140 @@
+{
+   margin: 0;
+   padding: 0;
+}
+html,
+body {
+   padding: 0;
+   margin: 0;
+   font-family: sans-serif;
+}
+.warna {
+   background: #284a70;
+   background-image:
+   clear: both;
+   margin: 0;
+   padding: 0;
+   text-align: justify;
+}
+.warna a {
+   color: #fff;
+   display: block;
+   font-size: 110%;
+   font-weight: bold;
+   overflow: hidden;
+   padding: 0.99em 1.5em;
+   /* slightly less than one to prevent rounding error */
+   position: relative;
+   text-decoration: none;
+   -moz-transition: background 0.4s ease-out;
+   -o-transition: background 0.4s ease-out;
+   -webkit-transition: background 0.4s ease-out;
+   transition: background 0.4s ease-out;
+}
+.warna li {
+   display: inline-block;
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   vertical-align: bottom;
+}
+
+.menu {
+   background: #284a70;
+   background-image:
+      linear-gradient(to bottom,
+         rgba(244, 160, 36, 0),
+         rgba(244, 160, 36, 0) 90%,
+         rgba(244, 160, 36, 100) 90%,
+         rgba(244, 160, 36, 100) 100%);
+   clear: both;
+   margin: 0;
+   padding: 0;
+   text-align: center;
+   text-shadow: 25;
+}
+
+.menu ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+}
+
+.menu>ul>li {
+   float: left;
+}
+
+
+.menu li a {
+   display: inline-block;
+   color: white;
+   text-align: center;
+   padding: 14px 35px;
+   text-decoration: none;
+}
+
+.menu li a:hover {
+   background-color: #f4a024;
+}
+
+li.dropdown {
+   display: inline-block;
+}
+
+.dropdown:hover .isi-dropdown {
+   display: block;
+}
+
+.isi-dropdown a:hover {
+   color: #fff !important;
+}
+
+.isi-dropdown {
+   position: absolute;
+   display: none;
+   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+   z-index: 1;
+   background-color: #f4a024;
+}
+
+.isi-dropdown a {
+   color: #fff !important;
+}
+
+.isi-dropdown a:hover {
+   color: #232323 !important;
+}
+
+.warna {
+   background: #284a70;
+   background-image:
+      clear: both;
+   margin: 0;
+   padding: 0;
+   text-align: justify;
+}
+
+.warna a {
+   color: #fff;
+   display: block;
+   font-size: 80%;
+   font-weight: bold;
+   overflow: hidden;
+   padding: 0.99em 1.5em;
+   /* slightly less than one to prevent rounding error */
+   position: relative;
+   text-decoration: none;
+   -moz-transition: background 0.4s ease-out;
+   -o-transition: background 0.4s ease-out;
+   -webkit-transition: background 0.4s ease-out;
+   transition: background 0.4s ease-out;
+}
+
+.warna li {
+   display: inline-block;
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   vertical-align: bottom;
+}
